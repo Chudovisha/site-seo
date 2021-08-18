@@ -283,6 +283,7 @@ a.dropdown-item {
     line-height: 35px;
     color: var(--text-color);
     margin-bottom: 26px;
+    margin-top: 25px;
 }
 
 /* seo-list */
@@ -2132,6 +2133,7 @@ ul.slick-dots {
 
     .seo-row-c {
         margin-top: 124px;
+        height: 271px;
     }
 
     .seo-img img {
@@ -2159,6 +2161,7 @@ ul.slick-dots {
         font-size: 18px;
         line-height: 23px;
         margin-bottom: 18px;
+        margin-top: 0px;
 
     }
 
