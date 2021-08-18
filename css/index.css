@@ -22,7 +22,7 @@
 
 #body {
     background-color: var(--main-color);
-    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* navigation */
@@ -3401,6 +3401,7 @@ ul.slick-dots {
         margin-top: 30px;
         position: relative;
         left: 24px;
+        width: 258px;
     }
 
 /* accrodion */
@@ -3901,7 +3902,7 @@ ul.slick-dots {
   }
 
   .txt-under-customer{
-    font-size: 6px;
+    font-size: 8px;
     margin-bottom: 24px;
   }
 
