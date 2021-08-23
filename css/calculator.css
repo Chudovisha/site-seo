@@ -1306,7 +1306,7 @@ https://toughengineer.github.io/demo/slider-styler*/
   }
 
   label.label-txt-b.label-txt {
-      width: auto;
+    width: 256px;
   }
 
   label.label-txt-c.label-txt {
@@ -1355,4 +1355,105 @@ https://toughengineer.github.io/demo/slider-styler*/
       font-size: 20px;
       line-height: 25px;
   }
+
+  .result-calculator {
+    height: 483px;
+  }
+  .result-calculator-block {
+    height: 483px;
+  }
+
+  
+
+  .price-txt {
+    font-size: 15px;
+    width: 250px;
+    line-height: 18px;
+  }
+
+  .result-price-key div {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .price-txt-down {
+    font-size: 9px;
+  }
+
+  .result-price-key {
+    width: 219px;
+    height: 107px;
+    margin-left: 11px;
+  }
+
+  .calculate-btn {
+    margin-left: 11px;
+    width: 219px;
+    height: 41px;
+  }
+
+  .result-calculator-txt-down {
+    font-size: 10px;
+  }
+
+  .calculate-btn p {
+    font-size: 14px;
+  }
+
+  .footer-calcul-row {
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+  }
+
+  .save-send-calculator {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
+  .save-send-calculator button {
+    margin-left: 19px;
+    margin-right: auto;
+  }
+
+  .like-calculator h3 {
+    font-size: 15px;
+  }
+
+  .like-calculator p {
+    font-size: 20px;
+  }
+
+  .calculator-buttom img {
+    width: 16.63px;
+    height: 14.66px;
+  }
+
+  .calculator-buttom {
+    width: 37.38px;
+    height: 37.38px;
+  }
+
+  .calculator-button-border {
+    width: 40px;
+    height: 40px;
+  }
+
+  .like-calculator {
+    align-items: center;
+  }
+
+  .save-send-calculator h3 {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .save-send-calculator button {
+    font-size: 13px;
+    
+    width: 125px;
+    height: 36px;
+  }
+
+
 }
