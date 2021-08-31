@@ -1446,6 +1446,7 @@ https://toughengineer.github.io/demo/slider-styler*/
   .save-send-calculator h3 {
     font-size: 15px;
     margin-bottom: 20px;
+    text-align: center;
   }
 
   .save-send-calculator button {
