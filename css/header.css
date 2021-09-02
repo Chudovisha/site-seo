@@ -15,6 +15,10 @@
         } */
 
         #main {
+            background-color: #333333;
+        }
+
+        .background {
             max-width: 1140px;
             margin: auto;
             background-color: #333333;
